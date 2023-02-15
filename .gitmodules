@@ -1,0 +1,3 @@
+[submodule "flitter-backend"]
+	path = flitter-backend
+	url = https://github.com/byte-us/flitter-backend.git
